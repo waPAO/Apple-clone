@@ -1,0 +1,188 @@
+#navbar {
+    background-color: rgb(51, 51, 51);
+    font-size: 12px;
+}
+
+#navbar a{
+    color: lightgrey;
+}
+
+#navbar a:hover {
+    color: white;
+}
+
+.jumbotron h1 {
+    font-size: 55px;
+    margin-bottom: 0;
+}
+
+.jumbotron p {
+    font-size: 30px;
+    margin-bottom: 0%;
+}
+
+.jumbotron nav {
+    font-size: 20px;
+    color: rgb(31, 102, 197);
+}
+
+.jumbotron a:hover {
+    text-decoration: underline;
+}
+
+#iphone_bot h1 {
+    color: white;
+}
+
+#iphone_bot p {
+    color: rgb(245, 197, 233)
+}
+
+#airpods {
+    background-image: url("imgs/airpods.jpeg");
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#airpods h2 {
+    font-size: 40px;
+}
+
+#airpods p {
+    font-size: 21px;
+}
+
+#airpods a {
+    font-size: 17px;
+}
+
+#watch {
+    background-image: url("imgs/watch.jpeg");
+    background-position: center;
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#watch a {
+    font-size: 17px;
+}
+
+#new {
+    font-size: 12px;
+    color:rgb(190, 105, 1);
+}
+
+#lead {
+    font-size: 21px;
+}
+
+#homepod {
+    background-image: url("imgs/homepod_mini.jpeg");
+    background-position: center;
+    background-size: cover;
+    padding-top: 5%;
+    padding-bottom: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#homepod h2 {
+    font-size: 40px;
+}
+
+#homepod p {
+    font-size: 12px;
+    color: gray;
+}
+
+#homepod a {
+    font-size: 17px;
+}
+
+#ipadmini {
+    background-image: url("imgs/ipad_mini.jpeg");
+    background-position: center;
+    background-size: cover;
+    padding-top: 5%;
+    padding-bottom: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#ipadmini p {
+    font-size: 21px;
+}
+
+#ipadmini a {
+    font-size: 17px;
+}
+
+#card {
+    background-image: url("imgs/apple_card.jpeg");
+    background-position: center;
+    background-size: cover;
+    padding-top: 4%;
+    padding-bottom: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#card p {
+    font-size: 21px;
+}
+
+#card a{
+    font-size: 17px;
+}
+
+#tv {
+    background-image: url("imgs/charlie_brown.jpeg");
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#tv p {
+    color: black;
+    font-size: 21px;
+}
+
+#tv a {
+    color: black;
+    font-size: 17px;
+}
+
+#logo {
+    margin-bottom: 290px;
+}
+
+footer {
+    background-color: rgb(245, 245, 247);
+}
+
+footer ul {
+    list-style: none;
+    font-size:12px ;
+    font-weight: 400;
+    color: gray;
+}
+
